@@ -1,2 +1,8 @@
-# redwhisky-framework
-Red Whisky Framework for Lua 5.1 and Python 3.8.5
+# Redwhisky Framework
+Red Whisky Framework is available for Lua 5.1 and Python 3.8.5
+
+By using Red Whisky you can unify your Python and Lua applications,
+Developers are free to distribute Red Whisky based applications.
+
+Gabriel Margarido
+October 4th 2020
